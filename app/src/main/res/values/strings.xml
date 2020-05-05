@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    
+    <string name="correct_answer">Correct!</string>
+    <string name="wrong_answer">Incorrect!</string>
+    <string name="first_score">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message">Not good</string>
+
+    <string name="q1">Animals that lay eggs don\'t have belly buttons.</string>
+    <string name="q2">Beavers can hold their breath for 45 minutes under water.</string>
+    <string name="q3">Camels have three eyelids.</string>
+    <string name="q4">A honey bee can fly at 15mph.</string>
+
+    <string name="q5">A queen bee can lay 800–1,500 eggs per day.</string>
+    <string name="q6">A bee has five eyelids.</string>
+    <string name="q7">The average speed of a housefly is 4.5 mph.</string>
+    <string name="q8">Mosquitoes are attracted to people who just ate bananas.</string>
+    <string name="q9">Flamingos turn pink from eating shrimp.</string>
+    <string name="q10">Emus and kangaroos cannot walk backward.</string>
+    <string name="q11">Cats have over 100 vocal cords.</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+</resources>
